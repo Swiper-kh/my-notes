@@ -18,6 +18,7 @@
 # Emoji
 - Me bc this was easy :disappointed_relieved:
 - Me if i gave up :neckbeard:
+
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
 - command-C (copy)
