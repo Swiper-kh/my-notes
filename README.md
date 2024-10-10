@@ -34,3 +34,6 @@ Shortcuts I would like to start using:
 - command-w (close the front window)
 - command-H (Hide the windows of the front app)
 
+
+- [CLI commands](docs/cli.md)
+
